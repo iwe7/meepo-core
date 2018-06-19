@@ -1,0 +1,10 @@
+{
+    "name": "imeepos/meepo-core",
+    "authors": [
+        {
+            "name": "iwe7",
+            "email": "admin@meepo.com.cn"
+        }
+    ],
+    "require": {}
+}
